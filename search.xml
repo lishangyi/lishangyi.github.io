@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>宝塔Linux面板安装教程企业版</title>
+      <link href="2021/05/02/%E5%AE%9D%E5%A1%94Linux%E9%9D%A2%E6%9D%BF%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B%E4%BC%81%E4%B8%9A%E7%89%88/"/>
+      <url>2021/05/02/%E5%AE%9D%E5%A1%94Linux%E9%9D%A2%E6%9D%BF%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B%E4%BC%81%E4%B8%9A%E7%89%88/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong>本次主要内容:</strong><br>1.插件列表同步官方<br>2.升级落后官方版本的插件<br>3.升级ngnix 防火墙 8.8.4 版本<br>4.升级第三方插件<br>5.优化插件服务器</p><p>1.移除宝塔插件 【测试版】节点同步工具<br>2.移除企业插件 堡塔代理服务器软件<br>3.移除第三方插件 服务器日志分析与流量统计<br>4.移除第三方插件 frp 服务端管理器（基础版）<br>5.移除第三方插件 百度网盘管理器</p><p>1.增加宝塔插件 腾讯云CDN 插件<br>2.增加宝塔插件 腾讯云DNS解析 插件<br>3.增加宝塔插件 腾讯云COSFS 插件<br>4.增加宝塔插件 宝塔企业防火墙-测试版 插件<br>5.增加专业版插件 宝塔负载均衡-重构版 插件<br>6.增加企业插件 节点同步工具 插件<br>7.增加第三方插件 Encryption365™ 免费证书<br>8.增加第三方插件 花生壳<br>9.增加第三方插件 宝塔west_fss<br>10.增加第三方插件 Jexus Http Web Server<br>11.增加第三方插件 URGoAccess<br>12.增加第三方插件 GEP分销</p><p><strong>Centos安装命令</strong></p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">yum install -y wget &amp;&amp; wget -O install.sh https://download.fenhao.me/ltd/install/install_6.0.sh &amp;&amp; sh install.sh</span><br></pre></td></tr></table></figure><p><strong>试验性Centos/Ubuntu/Debian安装命令 独立运行环境（py3.7） 可能存在少量兼容性问题 不断优化中</strong></p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">curl -sSO https://download.fenhao.me/ltd/install/install_panel.sh &amp;&amp; bash install_panel.sh</span><br></pre></td></tr></table></figure><p><strong>Ubuntu Deepin安装命令：</strong></p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">wget -O install.sh https://download.fenhao.me/ltd/install/install-ubuntu_6.0.sh &amp;&amp; sudo bash install.sh</span><br></pre></td></tr></table></figure><p><strong>Debian安装命令：</strong></p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">wget -O install.sh https://download.fenhao.me/ltd/install/install-ubuntu_6.0.sh &amp;&amp; bash install.sh</span><br></pre></td></tr></table></figure><p><strong>Fedora安装命令:</strong></p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">wget -O install.sh https://download.fenhao.me/ltd/install/install_6.0.sh &amp;&amp; bash install.sh</span><br></pre></td></tr></table></figure><p><strong>Linux面板7.5.1升级命令：</strong></p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">curl https://download.fenhao.me/ltd/install/update6.sh|bash</span><br></pre></td></tr></table></figure><p><strong>本次开心版更新内容:</strong><br>1.增加第三方 网站采集器插件<br>2.增加第三方 ucloud对象存储US3自动挂载工具插件</p><p><strong>本次7.5.2更新内容:</strong><br>1、增加创建软链文件功能<br>2、增加composer模块(在网站-设置)<br>3、增加安全风险提示模块<br>4、增加计划任务备份保留本地备份选项<br>5、增加网站错误日志选项(在网站-设置-错误日志)<br>6、调整网站SSL证书模块<br>7、优化回收站模块<br>8、优化对ubuntu/debian/Centos8的兼容性<br>9、优化MySQL性能调整模块<br>10、优化磁盘监控模块<br>11、增强面板SSL安全性<br>12、移除网站 - 设置 - Tomcat选项<br>13、其它已知Bug修正</p><p><strong>Linux面板7.5.2升级命令：</strong></p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">curl https://download.fenhao.me/ltd/install/update6.sh|bash</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 杂七杂八 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 宝塔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>般若波罗蜜多心经</title>
       <link href="2021/05/02/%E8%88%AC%E8%8B%A5%E6%B3%A2%E7%BD%97%E8%9C%9C%E5%A4%9A%E5%BF%83%E7%BB%8F/"/>
       <url>2021/05/02/%E8%88%AC%E8%8B%A5%E6%B3%A2%E7%BD%97%E8%9C%9C%E5%A4%9A%E5%BF%83%E7%BB%8F/</url>
