@@ -4,6 +4,44 @@
   
     
     <entry>
+      <title>免流混淆整理</title>
+      <link href="2021/05/05/%E5%85%8D%E6%B5%81%E6%B7%B7%E6%B7%86%E6%95%B4%E7%90%86/"/>
+      <url>2021/05/05/%E5%85%8D%E6%B5%81%E6%B7%B7%E6%B7%86%E6%95%B4%E7%90%86/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="联通卡混淆："><a href="#联通卡混淆：" class="headerlink" title="联通卡混淆："></a>联通卡混淆：</h1><p>联通卡通用混淆：pull.free.video.10010.com可过40</p><p>米粉卡混淆参数：api.ad.xiaomi.com</p><p>手机电视: 124.160.179.34:809 listen.10155.com<br>111.202.83.63:809 27.221.102.145:809<br>联通手机APP： liveiptv.7k7k.cf:6610 101.71.255.229:6610<br>3G门户：edu.10155.com m.iread.wo.com.cn ysj.iread.wo.com.cn box.10155.com m.wo.cn<br>沃视频：120.87.10.19:8082<br>沃浙江、WO+推广自有门户：w.zj165.com<br>手厅直播: pull.free.video.10010.com</p><p>edu.10155.com 沃学习</p><p>listen.10155.com 沃音乐</p><p>m.iread.wo.com.cn 沃阅读</p><p>ysj.iread.wo.com.cn 沃视界</p><p>imageout.wotv.17wo.cn 沃视频</p><p>新联通小歪卡（v2ray全国所有省份必免稳定无40G限制）：dm.toutiao.com</p><p>全国联通沃商店：game.hxll.wostore.cn</p><p>全国联通沃商店：music.hxll.wostore.cn</p><p>沃阅读混淆参数：partner.iread.wo.com.cn</p><p>全国联通沃商店高级：game.hxll.wostore.cn#Connection: Keep-Alive<br>Accept-Encoding: gzip</p><p>全国联通沃商店高级：music.hxll.wostore.cn#Connection: Keep-Alive<br>Accept-Encoding: gzip</p><p>沃阅读高级：partner.iread.wo.com.cn#Connection: Keep-Alive<br>Accept-Encoding: gzip</p><p>腾讯大王卡（优先测试，已免90%省份！）：wx.qlogo.cn#X-Online-Host: wx.qlogo.cn<br>referer: <a href="http://weixin.qq.com/?version=63">http://weixin.qq.com/?version=63</a> … 13000&amp;signal=77<br>Connection: Keep-Alive?</p><p>山东联通：m.t.17186.cn</p><p>小天神卡：box.10155.com</p><p>联通114圣子全国：114.255.201.163(重庆、河南、福建、湖南等地)</p><p>哔哩哔哩：i1.hdslb.com</p><p>哔哩哔哩：i0.hdslb.com</p><p>浙江联通wo+：w.zj165.com</p><p>联通wotv全国：wotv.17wo.cn（浙江、安徽、江苏）</p><p>河北：hb.10000shequ.com</p><p>湖北(优先wap接入点不免net)：box.10155.com</p><p>沃音乐：box.10155.com</p><p>沃阅读：partner.iread.wo.com.cn</p><p>工商e卡：v.icbc.com.cn</p><p>m.icbc.com.cn</p><p>m.mall.icbc.com.cn</p><p>elife.icbc.com.cn</p><p>act.icbc.com.cn</p><p>hit.icbc.com.cn</p><p>pv.mall.icbc.com.cn</p><p>mybank.icbc.com.cn</p><p>腾讯大王卡（优先测试，已免90%省份！）：wx.qlogo.cn#X-Online-Host: wx.qlogo.cn<br>referer: <a href="http://weixin.qq.com/?version=63">http://weixin.qq.com/?version=63</a> … 13000&amp;signal=77<br>Connection: Keep-Alive?</p><p>腾讯大王卡：szminorshort.weixin.qq.com#Upgrade: mmtls<br>Accept:?/<br>Connection: close<br>Content-Length: 533<br>Content-Type: application/octet-stream</p><p>腾讯大王卡：tx.flv.huya.com</p><p>腾讯大王卡：short.weixin.qq.com</p><p>腾讯大王卡：szextshort.weixin.qq.com</p><p>short.weixin.qq.com</p><p>新联通小歪卡（v2ray全国所有省份必免稳定无40G限制）：dm.toutiao.com</p><h1 id="电信卡混淆："><a href="#电信卡混淆：" class="headerlink" title="电信卡混淆："></a>电信卡混淆：</h1><p>电信百度大圣卡（全国所有省份必免）：dx-baiducdnct.inter.iqiyi.com</p><p>天翼视讯：h5.nty.tv189.com</p><p>天翼视讯：vod3.nty.tv189.cn</p><p>爱玩4G：open.4g.play.cn</p><p>爱看4G： ltetp.tv189.com</p><p>湖北电信：hb.10000shequ.com</p><p>湖北电信：hb.10000shequ.com:8081</p><p>电信天翼：dy3.nty.tv189.cn</p><p>电信天翼：ltewap.tv189.com</p><p>电信天翼：tp.nty.tv189.com</p><p>电信大王卡(可欠费使用)：lt.hn.189.cn:1082</p><p>阿里鱼卡：mps.amap.com#Connection: Keep-Alive<br>Accept-Encoding: gzip<br>Content-Length: 680</p><h1 id="移动卡混淆："><a href="#移动卡混淆：" class="headerlink" title="移动卡混淆："></a>移动卡混淆：</h1><p>全国移动<a href="http://www.10086.cn/">www.10086.cn</a></p><p>mm.10086.cn</p><p>抖音卡头条卡定向 有定向包可用：dm.toutiao.com</p><p>抖音卡头条卡定向 有定向包可用：v9-dy.ixigua.com</p><p>花里胡哨的混淆：</p><p>钉钉混淆参数：tms.dingtalk.com</p><p>微博混淆参数：tobe.vip.weibo.com</p><p>微博混淆参数：new.vip.weibo.cn</p><p>微博混淆参数：simg.s.weibo.com</p><p>优酷混淆参数：push.m.youku.com</p><p>优酷混淆参数：api.mobile.youku.com</p><p>书旗混淆参数：spend1.shuqireader.com</p><p>书旗混淆参数：c1.shuqireader.com</p><p>优酷混淆参数：<a href="http://www.youku.com/">www.youku.com</a></p><p>通用免流混淆参数B</p><p>优酷：vali-dns.cp31.ott.cibntv.net#Range:bytes=25165824-32586598</p><p>Accept:?/</p><p>爱看4G：ltevod.tv189.cn#Connection: Keep-Alive</p><p>Accept-Encoding: gzip</p><p>沃音乐：woif.10155.com#Accept-Encoding: gzip</p><p>微信(深圳已免)：szminorshort.weixin.qq.com#Upgrade: mmtls</p><p>Accept:?/</p><p>Connection: close</p><p>Content-Length: 533</p><p>Content-Type: application/octet-stream</p><p>淘宝：adashbc.m.taobao.com#Accept-Encoding: gzip</p><p>央视影音：asp.cntv.myalicdn.com#Icy-MetaData: 1</p><p>抖音：dm.toutiao.com#Connection: Keep-Alive</p><p>Accept-Encoding: gzip</p><p>百度：tbcdn.hiphotos.baidu.com#needginfo: 1/nConnection: Keep-Alive/nUser-Agent: bdtb for Android 9.0.8.0</p><p>爱奇艺：data.video.qiyi.com#Accept:?/</p><p>美团：apimeishi.meituan.com#Connection: Keep-Alive</p><p>高德地图：mps.amap.com#Connection: Keep-Alive</p><p>Accept-Encoding: gzip</p><p>Content-Length: 680</p><p>百度圣卡：data.video.qiyi.com</p><p>阿里宝卡：vali-dns.cp31.ott.cibntv.net</p><p>阿里宝卡：gw.alicdn.com</p><p>api.mobile.youku.com</p><p>〖微信〗mmbiz.qpic.cn</p><p>〖微信〗shmmsns.qpic.cn</p><p>〖QQ〗r.vip.qq.com</p><p>〖QQ〗m.qpic.cn</p><p>〖王者荣耀〗down-update.qq.com</p><p>〖王者荣耀〗140.207.122.139</p><p>〖王者茉耀〗58.247.215.101</p><p>〖支付宝〗mdap.alipay.com</p><p>〖芒果TV〗pcvideows.titan.mgtv.com</p><p>〖西瓜视频〗v6-ppx.ixigua.com</p><p>〖快手〗api.gifshow.com</p><p>〖快手〗ali2.a.yximgs.com</p><p>〖头条〗sf1-ttcdn-tos.pstatp.com</p><p>〖新浪微博〗mjs.sinaimg.cn</p><p>〖快手〗api.ksapisrv.com</p><p>〖QQ音乐〗dl.stream.qqmusic.qq.com</p><p>〖百度〗pic.rmb.bdstatic.com</p><p>〖UC〗serverfile. ac.uc.cn</p><p>〖网易〗s3.music.126.net</p><p>〖微云〗sz-download.weiyun.com</p><p>〖微云〗sh-download.weiyun.com</p><p>〖微信〗mmbiz.qpic.cn</p><p>〖百度〗vd3.bdstatic.com</p><p>〖微信〗shmmsns.qpic.cn</p><p>〖抖音〗v1-dy.ixigua.com</p><p>〖腾讯视频〗livep.l.qq.com</p><p>〖QQ空间登陆页面〗qzonestyle.gtimg.cn</p><p>〖抖音/头条〗log.snssdk.com</p><p>〖西瓜视频〗api.huoshan.com</p><p>〖西瓜视频〗v11-xg.ixigua.com</p><p>〖西瓜视频〗v9-dy-x.ixigua.co</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 杂七杂八 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 免流 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>玩客云刷armbian</title>
+      <link href="2021/05/04/%E7%8E%A9%E5%AE%A2%E4%BA%91%E5%88%B7armbian/"/>
+      <url>2021/05/04/%E7%8E%A9%E5%AE%A2%E4%BA%91%E5%88%B7armbian/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>V2Fly+WS+TLS+CDN+宝塔VLESS搭建教程</title>
       <link href="2021/05/03/V2Fly-WS-TLS-CDN-%E5%AE%9D%E5%A1%94VLESS%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/"/>
       <url>2021/05/03/V2Fly-WS-TLS-CDN-%E5%AE%9D%E5%A1%94VLESS%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</url>
