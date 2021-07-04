@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>公共DNS服务器IP</title>
+      <link href="2021/07/05/%E5%85%AC%E5%85%B1DNS%E6%9C%8D%E5%8A%A1%E5%99%A8IP/"/>
+      <url>2021/07/05/%E5%85%AC%E5%85%B1DNS%E6%9C%8D%E5%8A%A1%E5%99%A8IP/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th align="center">名称</th><th align="center">DNS服务器IP①</th><th align="center">DNS服务器IP②</th></tr></thead><tbody><tr><td align="center">腾讯DNSPod</td><td align="center">119.29.29.29</td><td align="center">182.254.116.115</td></tr><tr><td align="center">114DNS</td><td align="center">114.114.114.114</td><td align="center">114.114.115.115</td></tr><tr><td align="center">阿里DNS</td><td align="center">223.5.5.5</td><td align="center">223.6.6.6</td></tr><tr><td align="center">Google DNS</td><td align="center">8.8.8.8</td><td align="center">8.8.4.4</td></tr><tr><td align="center">Quad101 DNS</td><td align="center">101.101.101.101</td><td align="center"></td></tr><tr><td align="center">百度DNS</td><td align="center">180.76.76.76</td><td align="center"></td></tr><tr><td align="center">CNNUCS DNS</td><td align="center">1.2.4.8</td><td align="center">210.2.4.8</td></tr><tr><td align="center">CloudflareDNS</td><td align="center">1.1.1.1</td><td align="center">1.0.0.1</td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> 杂七杂八 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> DNS </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>写给高三的自己</title>
       <link href="2021/06/08/%E5%86%99%E7%BB%99%E9%AB%98%E4%B8%89%E7%9A%84%E8%87%AA%E5%B7%B1/"/>
       <url>2021/06/08/%E5%86%99%E7%BB%99%E9%AB%98%E4%B8%89%E7%9A%84%E8%87%AA%E5%B7%B1/</url>
